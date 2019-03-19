@@ -1,0 +1,53 @@
+{
+  "impressions" : [
+    
+    { "tablet": 2000000,
+      "smartphone": 2400000
+    },
+    {
+      "tablet": 1200000,
+      "smartphone": 1600000
+    },
+    {
+      "tablet": 2300000,
+      "smartphone": 2000000
+    },
+    {
+      "tablet": 3000000,
+      "smartphone": 4000000
+    },
+    {
+      "tablet": 2100000,
+      "smartphone": 1700000
+    },
+    {
+      "tablet": 1700000,
+      "smartphone": 1300000
+    },
+    {
+      "tablet": 1500000,
+      "smartphone": 21000000
+    },
+    {
+      "tablet": 1400000,
+      "smartphone": 23000000
+    },
+    {
+      "tablet": 1300000,
+      "smartphone": 2450000
+    },
+    {
+      "tablet": 1100000,
+      "smartphone": 3000000
+    },
+    {
+      "tablet": 950000,
+      "smartphone": 3300000
+    },
+    {
+      "tablet": 14000000,
+      "smartphone": 27000000
+    }
+  ],
+  
+}
