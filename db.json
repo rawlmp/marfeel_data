@@ -51,102 +51,102 @@
   ],
   "revenue": [
     {
-      "tablet": 100000,
-      "smartphone": 80000
+      "tablet": 9000,
+      "smartphone": 7000
     },
     {
-      "tablet": 94000,
-      "smartphone": 85000
+      "tablet": 9500,
+      "smartphone": 7500
     },
     {
-      "tablet": 111000,
-      "smartphone": 83000
+      "tablet": 9000,
+      "smartphone": 8000
     },
     {
-      "tablet": 108000,
-      "smartphone": 75000
+      "tablet": 8800,
+      "smartphone": 8100
     },
     {
-      "tablet": 104000,
-      "smartphone": 69000
+      "tablet": 8500,
+      "smartphone": 8900
     },
     {
-      "tablet": 132000,
-      "smartphone": 89000
+      "tablet": 8000,
+      "smartphone": 9500
     },
     {
-      "tablet": 142000,
-      "smartphone": 94000
+      "tablet": 8000,
+      "smartphone": 10000
     },
     {
-      "tablet": 173000,
-      "smartphone": 100000
+      "tablet": 7900,
+      "smartphone": 11000
     },
     {
-      "tablet": 40000,
-      "smartphone": 65000
+      "tablet": 7000,
+      "smartphone": 13000
     },
     {
-      "tablet": 30000,
-      "smartphone": 83000
+      "tablet": 6000,
+      "smartphone": 14000
     },
     {
-      "tablet": 82000,
-      "smartphone": 72000
+      "tablet": 5300,
+      "smartphone": 15000
     },
     {
-      "tablet": 125000,
-      "smartphone": 91000
+      "tablet": 6000,
+      "smartphone": 17000
     }
   ],
   "visits": [
     {
-      "tablet": 200000000,
-      "smartphone": 400000000
+      "tablet": 18000000,
+      "smartphone": 26000000
     },
     {
-      "tablet": 190000000,
-      "smartphone": 350000000
+      "tablet": 19000000,
+      "smartphone": 27000000
     },
     {
-      "tablet": 210000000,
-      "smartphone": 240000000
+      "tablet": 16000000,
+      "smartphone": 30000000
     },
     {
-      "tablet": 250000000,
-      "smartphone": 370000000
+      "tablet": 20000000,
+      "smartphone": 29000000
     },
     {
-      "tablet": 140000000,
-      "smartphone": 460000000
+      "tablet": 19000000,
+      "smartphone": 31000000
     },
     {
-      "tablet": 300000000,
-      "smartphone": 290000000
+      "tablet": 20000000,
+      "smartphone": 32000000
     },
     {
-      "tablet": 320000000,
-      "smartphone": 420000000
+      "tablet": 21000000,
+      "smartphone": 32000000
     },
     {
-      "tablet": 250000000,
-      "smartphone": 450000000
+      "tablet": 21500000,
+      "smartphone": 33000000
     },
     {
-      "tablet": 290000000,
-      "smartphone": 580000000
+      "tablet": 22000000,
+      "smartphone": 33500000
     },
     {
-      "tablet": 180000000,
-      "smartphone": 270000000
+      "tablet": 23000000,
+      "smartphone": 34000000
     },
     {
-      "tablet": 200000000,
-      "smartphone": 170000000
+      "tablet": 24000000,
+      "smartphone": 35000000
     },
     {
-      "tablet": 310000000,
-      "smartphone": 430000000
+      "tablet": 25000000,
+      "smartphone": 36000000
     }
   ]
 }
