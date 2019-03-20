@@ -101,52 +101,52 @@
   ],
   "visits": [
     {
-      "tablet": 18000000,
-      "smartphone": 26000000
+      "tablet": 26000000,
+      "smartphone": 18000000
     },
     {
-      "tablet": 19000000,
-      "smartphone": 27000000
+      "tablet": 27000000,
+      "smartphone": 12000000
     },
     {
-      "tablet": 16000000,
-      "smartphone": 30000000
+      "tablet": 31000000,
+      "smartphone": 10000000
     },
     {
-      "tablet": 20000000,
-      "smartphone": 29000000
+      "tablet": 29000000,
+      "smartphone": 14000000
     },
     {
-      "tablet": 19000000,
-      "smartphone": 31000000
+      "tablet": 30000000,
+      "smartphone": 12000000
     },
     {
-      "tablet": 20000000,
-      "smartphone": 32000000
+      "tablet": 32000000,
+      "smartphone": 16000000
     },
     {
-      "tablet": 21000000,
-      "smartphone": 32000000
+      "tablet": 33000000,
+      "smartphone": 15000000
     },
     {
-      "tablet": 21500000,
-      "smartphone": 33000000
+      "tablet": 32500000,
+      "smartphone": 21000000
     },
     {
-      "tablet": 22000000,
-      "smartphone": 33500000
+      "tablet": 34000000,
+      "smartphone": 1000000
     },
     {
-      "tablet": 23000000,
-      "smartphone": 34000000
+      "tablet": 34000000,
+      "smartphone": 22000000
     },
     {
-      "tablet": 24000000,
-      "smartphone": 35000000
+      "tablet": 35000000,
+      "smartphone": 20000000
     },
     {
-      "tablet": 25000000,
-      "smartphone": 36000000
+      "tablet": 37000000,
+      "smartphone": 13000000
     }
   ]
 }
